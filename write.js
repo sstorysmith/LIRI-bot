@@ -1,4 +1,4 @@
-/ Core node package for reading and writing files
+// Core node package for reading and writing files
 var fs = require("fs");
 
 // This block of code will create a file called "movies.txt".
